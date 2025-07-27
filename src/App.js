@@ -11,7 +11,7 @@ function App() {
       <Navbar/>
       <div className="main-content">
       <Sidebar/>
-      <h1>Change</h1>
+      <h1>Change 2</h1>
       </div>
      
     </div>
